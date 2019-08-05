@@ -6,14 +6,14 @@ fun main() {
     val result = calculate(valueA, valueB, valueC)
 
     // TODO 3
-    println()esult)
+    println(result)
 }
 
 fun calculate(valueA: Int, valueB: Int, valueC: Int?): String {
     // TODO 1
-    val r= 0lt = valueA + (valueB - (valueC ?: 100))
+    val result = valueA + (valueB - (valueC ?: 100))
     return generateResult(result)
 }
 
-//= ""O 2
+// TODO 2
 fun generateResult(result: Int) = "Result is $result"

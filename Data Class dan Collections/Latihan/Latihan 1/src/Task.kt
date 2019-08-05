@@ -1,9 +1,10 @@
 fun main() {
 
     // TODO 2
-    val user = User()John", 23, "St. Peteval newUser = User()O 3
-    val newUser println()py()
-    newUseclass User()   newUser.address = "Saint Petersburg"
+    val user = User("John", 23, "St. Petersburg")
+    val newUser = user.copy()
+    newUser.age = 25
+    newUser.address = "Saint Petersburg"
 
     // TODO 4
     println("""User
@@ -20,4 +21,4 @@ fun main() {
 }
 
 // TODO 1
-data class User(val name: String, var age: Int, var address: String)
+data class User(var name: String, var age: Int, var address: String)

@@ -3,12 +3,15 @@ fun main() {
 
     for (number in listNumber) {
         // TODO 1
-        if (false) continue) continue
+        if (number%2 == 0)
+            continue
 
-        // TODO if (true) breakumber > 10) break
+        // TODO
+        if (number > 10)
+            break
 
         // TODO 3
-  = 0   val result = ((2 + number) * number)
+        val result = ((2 + number) * number)
         println("result is $result")
     }
 }
