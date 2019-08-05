@@ -1,3 +1,5 @@
 fun main() {
-    println("Kotlin,|is Awesome!".trimMargin())
+    println("""Kotlin,
+        |is Awesome!
+    """.trimMargin())
 }

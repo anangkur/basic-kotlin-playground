@@ -66,7 +66,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Hello Kotlin" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Failed" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -113,7 +113,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Failed" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -139,7 +139,7 @@
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(&quot;" />
                                             <option name="selected" value="true" />
-                                            <option name="status" value="Failed" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
@@ -184,7 +184,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Latihan 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Failed" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -204,13 +204,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="43" />
+                                            <option name="length" value="61" />
                                             <option name="offset" value="17" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(&quot;" />
                                             <option name="selected" value="true" />
-                                            <option name="status" value="Failed" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
@@ -280,7 +280,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Hello Kotlin 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -315,7 +315,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Hello Kotlin 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -362,7 +362,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Character" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -397,7 +397,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -432,7 +432,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Char in String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -467,7 +467,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Escaped String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -502,7 +502,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="Unicode String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -537,7 +537,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="Raw String" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -572,7 +572,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Array Initialization" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -607,7 +607,7 @@
                             <option name="index" value="8" />
                             <option name="name" value="Update Array" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -654,7 +654,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Function Initilization" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -701,7 +701,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="If" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -736,7 +736,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="If Else" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -771,7 +771,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="If as a Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -806,7 +806,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="If Else If" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -853,7 +853,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Conjuction" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -888,7 +888,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Disjunction" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -923,7 +923,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Negation" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -970,7 +970,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Number Initilization" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1005,7 +1005,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Number with max and min values" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1040,7 +1040,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Number operation" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1075,7 +1075,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="String to Number" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1122,7 +1122,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Nullable Types" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1169,7 +1169,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Safe Call Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1204,7 +1204,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Elvis Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1251,7 +1251,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="String Template" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1298,7 +1298,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1347,7 +1347,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Latihan 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1367,13 +1367,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
+                                            <option name="length" value="23" />
                                             <option name="offset" value="111" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(r" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -1388,13 +1388,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="3" />
+                                            <option name="length" value="4" />
                                             <option name="offset" value="179" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= 0" />
                                             <option name="possibleAnswer" value="ipl" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -1409,18 +1409,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="3" />
+                                            <option name="length" value="5" />
                                             <option name="offset" value="228" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= 0" />
                                             <option name="possibleAnswer" value="nt(" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;&#10;    val resultMultiple = multiple(&quot;10&quot;, &quot;10&quot;)&#10;    val resultSum = sum(10, 10)&#10;&#10;    // TODO 3&#10;    println()esultMultiple)&#10;    println(resultSum)&#10;}&#10;&#10;// TODO 1&#10;fun mult= 0e(value1: String, value2: String) = value1.toI= 0) * value2.toInt()&#10;&#10;// TODO 2&#10;fun sum(value1: Int, value2: Int) = value1 + value2" />
                                       <option name="trackChanges" value="true" />
@@ -1460,7 +1460,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Latihan 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1480,13 +1480,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
+                                            <option name="length" value="15" />
                                             <option name="offset" value="144" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(r" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -1501,13 +1501,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="3" />
+                                            <option name="length" value="5" />
                                             <option name="offset" value="250" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= 0" />
                                             <option name="possibleAnswer" value="esu" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -1527,13 +1527,13 @@
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= &quot;&quot;" />
                                             <option name="possibleAnswer" value=" TOD" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val valueA = 65&#10;    val valueB = 52&#10;    val valueC = 78&#10;&#10;    val result = calculate(valueA, valueB, valueC)&#10;&#10;    // TODO 3&#10;    println()esult)&#10;}&#10;&#10;fun calculate(valueA: Int, valueB: Int, valueC: Int?): String {&#10;    // TODO 1&#10;    val r= 0lt = valueA + (valueB - (valueC ?: 100))&#10;    return generateResult(result)&#10;}&#10;&#10;//= &quot;&quot;O 2&#10;fun generateResult(result: Int) = &quot;Result is $result&quot;" />
                                       <option name="trackChanges" value="true" />
@@ -1598,7 +1598,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Enumeration" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1633,7 +1633,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Enum Object Value" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1668,7 +1668,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Anonymous Class in Enumeration" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1703,7 +1703,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="All of Enum Object" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1738,7 +1738,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="valueOf" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1773,7 +1773,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="enumValues" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1808,7 +1808,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Enum Position" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1843,7 +1843,7 @@
                             <option name="index" value="8" />
                             <option name="name" value="Enumeration with When Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1890,7 +1890,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="When" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1925,7 +1925,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="When with Else block" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1960,7 +1960,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="When as a Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -1995,7 +1995,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Multiple statement in Condition block" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2030,7 +2030,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="When with `is` operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2065,7 +2065,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="When with Range as a Condition" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2100,7 +2100,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="When subject" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2147,7 +2147,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Expression" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2182,7 +2182,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Statement" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2229,7 +2229,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="While" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2264,7 +2264,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Do While" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2299,7 +2299,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Infinite While" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2346,7 +2346,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="For Loop" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2381,7 +2381,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="For Loop with Range" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2416,7 +2416,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="ForEach" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2451,7 +2451,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="For Loop Index" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2486,7 +2486,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="For Loop with Step Extension" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2521,7 +2521,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="ForEachIndexed" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2556,7 +2556,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Range" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2591,7 +2591,7 @@
                             <option name="index" value="8" />
                             <option name="name" value="Range ForEach" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2626,7 +2626,7 @@
                             <option name="index" value="9" />
                             <option name="name" value="Range with `in` Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2661,7 +2661,7 @@
                             <option name="index" value="10" />
                             <option name="name" value="Range with `!in` Operator" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2708,7 +2708,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Continue" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2743,7 +2743,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Break" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2778,7 +2778,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Labels" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -2825,7 +2825,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -2845,13 +2845,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
+                                            <option name="length" value="46" />
                                             <option name="offset" value="73" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(&quot;" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -2866,18 +2866,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="5" />
-                                            <option name="offset" value="159" />
+                                            <option name="length" value="15" />
+                                            <option name="offset" value="157" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="false" />
                                             <option name="possibleAnswer" value="nge: " />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val value = 1&#10;    val range = 1..100&#10;&#10;    // TODO 2&#10;    println()In range : ${inRange(value, range)}&quot;)&#10;}&#10;&#10;// TODO 1&#10;fun inRange(value: Int, rafalseIntRange): Boolean {&#10;    return when (value) {&#10;        in range -&gt; true&#10;        !in range -&gt; false&#10;        else -&gt; false&#10;    }&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -2917,7 +2917,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Latihan 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -2942,8 +2942,8 @@
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= 0" />
                                             <option name="possibleAnswer" value="= 1" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -2958,18 +2958,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
-                                            <option name="offset" value="91" />
+                                            <option name="length" value="10" />
+                                            <option name="offset" value="90" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value=" in range" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    // TODO 1&#10;    val range = 0.rangeTo(100) step 10&#10;&#10;    // TODO 2&#10;    for (iprintln()) {&#10;        println(&quot;$i x 10 = ${i * 10}&quot;)&#10;    }&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -3009,7 +3009,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Latihan 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -3029,13 +3029,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="19" />
+                                            <option name="length" value="39" />
                                             <option name="offset" value="108" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="if (false) continue" />
                                             <option name="possibleAnswer" value="if (number % 2 != 1" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3050,13 +3050,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="15" />
-                                            <option name="offset" value="155" />
+                                            <option name="length" value="24" />
+                                            <option name="offset" value="165" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="if (true) break" />
                                             <option name="possibleAnswer" value="2&#10;        if (n" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3071,18 +3071,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="3" />
-                                            <option name="offset" value="209" />
+                                            <option name="length" value="8" />
+                                            <option name="offset" value="227" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= 0" />
                                             <option name="possibleAnswer" value="   " />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val listNumber = 1.rangeTo(30)&#10;&#10;    for (number in listNumber) {&#10;        // TODO 1&#10;        if (false) continue) continue&#10;&#10;        // TODO if (true) breakumber &gt; 10) break&#10;&#10;        // TODO 3&#10;  = 0   val result = ((2 + number) * number)&#10;        println(&quot;result is $result&quot;)&#10;    }&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -3147,7 +3147,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Data Class" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3182,7 +3182,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Different data class with class" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3217,7 +3217,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Comparing data class" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3252,7 +3252,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Copying data class objects" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3287,7 +3287,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="Modify the data class object" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3322,7 +3322,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="Destructuring Declarations" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3357,7 +3357,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="Create variables based on data class objects" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3404,7 +3404,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Collections" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3439,7 +3439,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Sets" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3474,7 +3474,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Maps" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3521,7 +3521,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="filter and filterNot" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3556,7 +3556,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="map" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3591,7 +3591,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="count" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3626,7 +3626,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="find" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3661,7 +3661,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="first" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3696,7 +3696,7 @@
                             <option name="index" value="6" />
                             <option name="name" value="sum" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3731,7 +3731,7 @@
                             <option name="index" value="7" />
                             <option name="name" value="sorted" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -3778,7 +3778,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -3798,13 +3798,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="8" />
+                                            <option name="length" value="36" />
                                             <option name="offset" value="41" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= User()" />
                                             <option name="possibleAnswer" value="= User(&quot;" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3819,13 +3819,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="20" />
-                                            <option name="offset" value="69" />
+                                            <option name="length" value="0" />
+                                            <option name="offset" value="77" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="val newUser = User()" />
                                             <option name="possibleAnswer" value="rsburg&quot;)&#10;&#10;    // TOD" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3840,13 +3840,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
-                                            <option name="offset" value="109" />
+                                            <option name="length" value="25" />
+                                            <option name="offset" value="82" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="= user.co" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3861,18 +3861,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="12" />
-                                            <option name="offset" value="133" />
+                                            <option name="length" value="57" />
+                                            <option name="offset" value="112" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="class User()" />
                                             <option name="possibleAnswer" value="r.age = 25&#10; " />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;&#10;    // TODO 2&#10;    val user = User()John&quot;, 23, &quot;St. Peteval newUser = User()O 3&#10;    val newUser println()py()&#10;    newUseclass User()   newUser.address = &quot;Saint Petersburg&quot;&#10;&#10;    // TODO 4&#10;    println(&quot;&quot;&quot;User&#10;        |Name: ${user.name}&#10;        |Age: ${user.age}&#10;        |Address: ${user.address}&#10;        |&#10;        |New User&#10;        |Name: ${newUser.name}&#10;        |Age: ${newUser.age}&#10;        |Address: ${newUser.address}&#10;        &quot;&quot;&quot;.trimMargin())&#10;&#10;}&#10;&#10;// TODO 1&#10;data class User(val name: String, var age: Int, var address: String)" />
                                       <option name="trackChanges" value="true" />
@@ -3912,7 +3912,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Latihan 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -3932,13 +3932,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="15" />
+                                            <option name="length" value="109" />
                                             <option name="offset" value="59" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="mapOf&lt;String&gt;()" />
                                             <option name="possibleAnswer" value="mapOf(&#10;        " />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3953,13 +3953,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="88" />
-                                            <option name="offset" value="94" />
+                                            <option name="length" value="224" />
+                                            <option name="offset" value="59" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="val name = user.getValue(&quot;&quot;)&#10;val age = user.getValue(&quot;&quot;)&#10;val address = user.getValue(&quot;&quot;)" />
                                             <option name="possibleAnswer" value=",&#10;            &quot;age&quot; to &quot;23&quot;,&#10;            &quot;address&quot; to &quot;St. Petersburg&quot;&#10;    )&#10;&#10;    // TOD" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -3974,18 +3974,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
-                                            <option name="offset" value="202" />
+                                            <option name="length" value="0" />
+                                            <option name="offset" value="283" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="ser.getVa" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="// coming soon&#10;&#10;fun main() {&#10;&#10;    // TODO 1&#10;    val user = mapOf&lt;String&gt;()    &quot;name&quot; to &quot;John&quot;val name = user.getValue(&quot;&quot;)&#10;val age = user.getValue(&quot;&quot;)&#10;val address = user.getValue(&quot;&quot;)O 2&#10;    val name = uprintln()lue(&quot;name&quot;)&#10;    val age = user.getValue(&quot;age&quot;)&#10;    val address = user.getValue(&quot;address&quot;)&#10;&#10;    // TODO 3&#10;    println(&quot;&quot;&quot;User&#10;        |Name: $name&#10;        |Age: $age\&#10;        |Address: $address&quot;&quot;&quot;.trimMargin())&#10;&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -4050,7 +4050,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4085,7 +4085,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4120,7 +4120,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4155,7 +4155,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Contoh 4" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4202,7 +4202,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4237,7 +4237,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4272,7 +4272,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4319,7 +4319,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4354,7 +4354,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4389,7 +4389,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4424,7 +4424,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Contoh 4" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4471,7 +4471,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4506,7 +4506,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4541,7 +4541,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4576,7 +4576,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="Contoh 4" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4611,7 +4611,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="Contoh 5" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4658,7 +4658,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Contoh 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4693,7 +4693,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Contoh 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4728,7 +4728,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Contoh 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4775,7 +4775,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="run" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4810,7 +4810,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="with" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4845,7 +4845,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="apply" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4880,7 +4880,7 @@
                             <option name="index" value="4" />
                             <option name="name" value="let" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4915,7 +4915,7 @@
                             <option name="index" value="5" />
                             <option name="name" value="also" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/App.kt">
@@ -4962,7 +4962,7 @@
                             <option name="index" value="1" />
                             <option name="name" value="Latihan 1" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -4982,13 +4982,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
+                                            <option name="length" value="18" />
                                             <option name="offset" value="141" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(f" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -5003,18 +5003,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="15" />
+                                            <option name="length" value="28" />
                                             <option name="offset" value="196" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="mapOf&lt;String&gt;()" />
                                             <option name="possibleAnswer" value="fun String.getF" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val text = &quot;Kotlin&quot;.getFirstAndLast()&#10;&#10;    val firstChar = text[&quot;first&quot;]&#10;    val lastChar = text[&quot;last&quot;]&#10;&#10;    // TODO 2&#10;    println()irstChar)&#10;    println(lastChar)&#10;&#10;}&#10;&#10;// TODO 1&#10;mapOf&lt;String&gt;()irstAndLast() = mapOf(&#10;        &quot;first&quot; to this.first(),&#10;        &quot;last&quot; to this.last()&#10;)" />
                                       <option name="trackChanges" value="true" />
@@ -5054,7 +5054,7 @@
                             <option name="index" value="2" />
                             <option name="name" value="Latihan 2" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -5074,13 +5074,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="9" />
+                                            <option name="length" value="15" />
                                             <option name="offset" value="68" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="println(r" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -5095,18 +5095,18 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="22" />
-                                            <option name="offset" value="91" />
+                                            <option name="length" value="33" />
+                                            <option name="offset" value="92" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="val multiply:  Int = 0" />
                                             <option name="possibleAnswer" value="ODO 1&#10;val multiply: (I" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;    val result = multiply(300, 300)&#10;&#10;    // TODO 2&#10;    println()esult)&#10;}&#10;&#10;// Tval multiply:  Int = 0nt, Int) -&gt; Int = { value1, value2 -&gt; value1 * value2 }" />
                                       <option name="trackChanges" value="true" />
@@ -5146,7 +5146,7 @@
                             <option name="index" value="3" />
                             <option name="name" value="Latihan 3" />
                             <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="files">
                               <map>
                                 <entry key="src/Task.kt">
@@ -5171,8 +5171,8 @@
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="= &quot;&quot;" />
                                             <option name="possibleAnswer" value="= fo" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -5193,7 +5193,7 @@
                                             <option name="placeholderText" value="println()" />
                                             <option name="possibleAnswer" value="perCase&quot;]" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                           <AnswerPlaceholder>
@@ -5214,12 +5214,12 @@
                                             <option name="placeholderText" value="= text" />
                                             <option name="possibleAnswer" value="rintln" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="fun main() {&#10;&#10;    // TODO 2&#10;    val text = &quot;&quot;rmatText(&quot;Kotlin is Awesome&quot;)&#10;&#10;    val lowerCase = text[&quot;lowerCase&quot;]&#10;    val upperCase = text[&quot;upprintln()&#10;&#10;    // TODO 3&#10;    println(lowerCase)&#10;    p= text(upperCase)&#10;&#10;}&#10;&#10;// TODO 1&#10;fun formatText(text: String) = with(text){&#10;    mapOf(&#10;            &quot;lowerCase&quot; to this.toLowerCase(),&#10;            &quot;upperCase&quot; to this.toUpperCase()&#10;    )&#10;}" />
                                       <option name="trackChanges" value="true" />

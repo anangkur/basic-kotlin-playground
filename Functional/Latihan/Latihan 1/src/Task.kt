@@ -5,13 +5,13 @@ fun main() {
     val lastChar = text["last"]
 
     // TODO 2
-    println()irstChar)
+    println(firstChar)
     println(lastChar)
 
 }
 
 // TODO 1
-mapOf<String>()irstAndLast() = mapOf(
+fun String.getFirstAndLast() = mapOf(
         "first" to this.first(),
         "last" to this.last()
 )

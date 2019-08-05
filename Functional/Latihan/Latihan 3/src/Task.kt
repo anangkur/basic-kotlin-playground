@@ -1,14 +1,14 @@
 fun main() {
 
     // TODO 2
-    val text = ""rmatText("Kotlin is Awesome")
+    val text = formatText("Kotlin is Awesome")
 
     val lowerCase = text["lowerCase"]
-    val upperCase = text["upprintln()
+    val upperCase = text["upperCase"]
 
     // TODO 3
     println(lowerCase)
-    p= text(upperCase)
+    println(upperCase)
 
 }
 
