@@ -7,7 +7,7 @@ fun main() = runBlocking {
         println("Result: $result")
     }
 
-    job.cancel()
+    job.start()
     job.cancel()
     println("Membatalkan Job...")
     if (job.isCancelled) {

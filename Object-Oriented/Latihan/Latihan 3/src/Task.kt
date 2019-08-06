@@ -1,7 +1,7 @@
 // TODO 1
-fun sum(valueA: Double, valueB: Double) = 0
-fun sum(valueA: Double, valueB: Double) = 0
-fun sum(valueA: Double, valueB: Double) = 0g, valueB: String) = valueA.toInt() + valueB.toInt()
+fun sum(valueA: String, valueB: String) = valueA.toInt() + valueB.toInt()
+fun sum(valueA: Int, valueB: Int) = valueA + valueB
+fun sum(valueA: Double, valueB: Double) = valueA + valueB
 
 fun main() {
     val resultA = sum(10.9, 19.1)

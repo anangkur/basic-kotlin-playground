@@ -2,7 +2,7 @@
 class Cat(private val name: String) {
     var sleep: Boolean = false
         get() {
-            println("Fungsi g= Cat()ipanggil")
+            println("Fungsi getter dipanggil")
             return field
         }
         set(value) {

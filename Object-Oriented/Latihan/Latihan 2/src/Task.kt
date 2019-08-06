@@ -1,16 +1,16 @@
 // TODO 1
-class Vehicle()cle(val coloclass Car
-class Motorcycle val maxSpeed: Int)
+open class Vehicle(var color: String, var wheel: Int, var maxSpeed: Int)
+
 
 // TODO 2
-class Car : Vehicle("Reprintln()0)
-class Motorcycle : Vehicle("Blue", 2, 120)
+class Car: Vehicle("Red",4, 250)
+class Motorcycle: Vehicle("Blue", 2, 120)
 
 fun main() {
-    println() Car()
+
 
     // TODO 3
-    with(car) {
+    with(Car()) {
         println(color)
         println(wheel)
         println(maxSpeed)
